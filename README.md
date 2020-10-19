@@ -13,7 +13,7 @@ There are 12 scenes in total, but only 6 are presented to the user; each scene r
 
 The illustration choices for the comic are simple yet specific. Soojin and I have deliberately chosen to maintain the black-and-white theme for the background to concentrate on the main character and the storyline. The choice to portray the main character to be gender-neutral is also the one that was made on purpose. There were many design choices throughout each scene, but they all circle around the main character at a specific moment: standing at the hallway, spilling mustard, meeting a friend, riding a car, and so on. This portrayal was inspired by Scott McCloud's *Understanding Comics* ("Action to Action" and "Subject to Subject" portrayals, chapter 3).
 
-Created with HTML, CSS, and JavaScript, the comic lives entirely on the web. A crucial component of interactivity are the Illustrator strip elements as well as vector icons for simulating the choice, all of which are brought to "life" by Ayesha and Hasin with CSS and JavaScript libraries.
+Created with HTML, CSS, and JavaScript, the comic lives entirely on the web. A crucial component of interactivity are the Illustrator strip elements as well as vector icons for simulating the choice, all of which are brought to "life" by Ayesha and Hasin with CSS and JavaScript animations.
 
 What could be improved later on, however, are the UI and UX of the web. We are still in search of an ideal transition between the landing page and the comic elements, as well as the most convenient way of presenting the text description for each scene. 
 
