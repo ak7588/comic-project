@@ -9,7 +9,7 @@ The way we, humans, make our life decisions is unprecedented. We are presented a
 
 The storyline evolves around a main character, Yellow, who leaves the house for an important job interview. Throughout the journey, Yellow is presented with plethora of small choices that make up an outcome — a larger story. These small choices form a memory to look and reflect back at.
 
-There are 12 scenes in total, but only 6 are presented to the user; each scene requires interactivity — making a choice for the storyline event. Every scene was made using background images from [www.unsplash.com](http://www.unsplash.com) with everything made originally by hand in Adobe Illustrator. 
+There are 12 scenes in total, but only 6 are presented to the user; each scene requires interactivity — making a choice for the storyline event. Every scene was made using background images from [www.unsplash.com](http://www.unsplash.com) with everything else made originally in Adobe Illustrator and sound recordings. 
 
 The illustration choices for the comic are simple yet specific. Soojin and I have deliberately chosen to maintain the black-and-white theme for the background to concentrate on the main character and the storyline. The choice to portray the main character to be gender-neutral is also the one that was made on purpose. There were many design choices throughout each scene, but they all circle around the main character at a specific moment: standing at the hallway, spilling mustard, meeting a friend, riding a car, and so on. This portrayal was inspired by Scott McCloud's *Understanding Comics* ("Action to Action" and "Subject to Subject" portrayals, chapter 3).
 
