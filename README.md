@@ -5,7 +5,7 @@ Comic Project for Communications Lab, Fall 2020
 
 ---
 
-The way we, humans, make our memories is unprecedented. We are presented a series of small events on a daily basis, but ultimately these events are the ones forming our memories. It seems fascinating how small choices add up to have a big influence on our lives, and this is what our team wanted to explore and convey in this project through sequential art and web interactivity. 
+The way we, humans, make our life decisions is unprecedented. We are presented a series of small events on a daily basis, but ultimately these events are the ones forming our memories. It seems fascinating how small choices add up to have a big influence on our lives, and this is what our team wanted to explore and convey in this project through sequential art and web interactivity. 
 
 The storyline evolves around a main character, Yellow, who leaves the house for an important job interview. Throughout the journey, Yellow is presented with plethora of small choices that make up an outcome — a larger story. These small choices form a memory to look and reflect back at.
 
